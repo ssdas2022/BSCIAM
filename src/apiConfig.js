@@ -1,0 +1,1 @@
+export const API = "https://get-text-from-link-tvwd.vercel.app"
